@@ -15,7 +15,10 @@ So I thought… why not build my own?
 RustyFetch is my take on that — simple, aesthetic, and built while learning Rust.
 
 ---
-
+![Crates.io](https://img.shields.io/crates/v/rustyfetch-cli)
+![Downloads](https://img.shields.io/crates/d/rustyfetch-cli)
+![License](https://img.shields.io/crates/l/rustyfetch-cli)
+![Rust](https://img.shields.io/badge/Rust-🦀-orange)
 ## 🚀 Installation
 
 ```bash
