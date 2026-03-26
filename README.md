@@ -19,7 +19,7 @@ RustyFetch is my take on that — simple, aesthetic, and built while learning Ru
 ## 🚀 Installation
 
 ```bash
-cargo install --path .
+cargo install rustyfetch-cli
 ```
 
 ---
