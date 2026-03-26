@@ -1,10 +1,14 @@
 [package]
-name = "rustyfetch"
+name = "rustyfetch-cli"
 version = "0.1.0"
 edition = "2021"
 description = "A minimal and aesthetic system fetch tool written in Rust 🦀"
 license = "MIT"
-authors = ["Tanishiq Jaiswal"]
+repository = "https://github.com/Tanishhhq-codes/rustyfetch"
+homepage = "https://github.com/Tanishhhq-codes/rustyfetch"
+readme = "README.md"
+keywords = ["cli", "fetch", "system", "linux"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 sysinfo = "0.38.4"
