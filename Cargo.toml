@@ -1,0 +1,12 @@
+[package]
+name = "rustyfetch"
+version = "0.1.0"
+edition = "2021"
+description = "A minimal and aesthetic system fetch tool written in Rust 🦀"
+license = "MIT"
+authors = ["Tanishiq Jaiswal"]
+
+[dependencies]
+sysinfo = "0.38.4"
+colored = "3.1.1"
+whoami = "2.1.1"
