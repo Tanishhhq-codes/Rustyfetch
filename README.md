@@ -69,15 +69,3 @@ rustyfetch
 ## 💡 Inspiration
 
 Inspired by tools like fastfetch and neofetch.
-
----
-
-## 👨‍💻 Author
-
-**Tanishiq Jaiswal**
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
